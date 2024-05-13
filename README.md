@@ -45,14 +45,24 @@
   </a>
 </p>
 
-<h1 align="center">🎉 42 SEOUL</h1>
+<h1 align="center">🎉 Portpolios</h1>
 <p align="center">
-  <a href="https://github.com/JaeSeoKim/badge42">
-    <img src="https://badge42.vercel.app/api/v2/cl5dx4vd7001109mnga2j5sje/stats?cursusId=21&coalitionId=85" alt="sunhwang's 42 stats" />
+  📝
+  <a href="https://get6.github.io">
+    Next.js로 꾸민 개발 블로그
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/sunhwang?1337Badge=off&UM6P=off" alt="sunhwang's 42 stats" /></a>
+  💰
+  <a href="https://get6.github.io/get912000won/">
+    42서울 교육지원금 계산기
+  </a>
+</p>
+<p align="center">
+  🗓️
+  <a href="https://ittae.com/">
+    이때: 약속 조율 앱
+  </a>
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
