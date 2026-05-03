@@ -1,26 +1,39 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20World!%20🌏&fontSize=90)
 
+<h3 align="center">AI를 활용하는 개발자, sunhwang</h3>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=87CEFA&width=435&lines=What+we+think%2C+we+become.;Stay+hungry%2C+Stay+foolish.;I'm+gonna+live+every+minute+of+it." alt="Typing SVG" />
+  반복되는 일은 자동화하고, 사람이 할 일에 집중합니다.<br/>
+  Flutter로 모바일 앱을, 백엔드로 서비스를, AI로 생산성을 다룹니다.
 </p>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fget6&count_bg=%2387CEFA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=87CEFA&width=435&lines=What+we+think%2C+we+become.;Stay+hungry%2C+Stay+foolish.;I'm+gonna+live+every+minute+of+it." alt="Typing SVG" />
 </p>
 
 <h1 align="center">🥞 Tech stack</h1>
+
+<p align="center"><b>Mobile</b></p>
 <p align="center">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+</p>
+
+<p align="center"><b>Backend</b></p>
+<p align="center">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-A8B9CC?style=flat&logo=C%2B%2B&logoColor=white"/>
+</p>
+
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+</p>
+
+<p align="center"><b>AI</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Anthropic-D97757?style=flat&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
 </p>
 
 <h1 align="center">🏎 Tools</h1>
@@ -29,6 +42,16 @@
 <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
 <img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=Obsidian&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+</p>
+
+<h1 align="center">🔗 Connect</h1>
+<p align="center">
+  <a href="https://get6.github.io">
+    <img src="https://img.shields.io/badge/Blog-get6.github.io-87CEFA?style=flat&logo=githubpages&logoColor=white"/>
+  </a>
+  <a href="./assets/pdfs/portfolio.pdf">
+    <img src="https://img.shields.io/badge/Portfolio-PDF-FF5733?style=flat&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 </p>
 
 <h1 align="center">🌈 Most Used Languages</h1>
@@ -45,7 +68,7 @@
   </a>
 </p>
 
-<h1 align="center">🎉 Portpolios</h1>
+<h1 align="center">🎉 Portfolio</h1>
 <p align="center">
   📝
   <a href="https://get6.github.io">
@@ -66,18 +89,3 @@
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
-
-<!--
-**get6/get6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
