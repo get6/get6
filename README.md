@@ -32,26 +32,18 @@
 
 <h3 align="center">🔗 Connect</h3>
 <p align="center">
-  <a href="https://get6.github.io">
-    <img src="https://img.shields.io/badge/Blog-get6.github.io-87CEFA?style=flat&logo=githubpages&logoColor=white"/>
-  </a>
-  <a href="./assets/pdfs/portfolio.pdf">
-    <img src="https://img.shields.io/badge/Portfolio-PDF-FF5733?style=flat&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
+  <a href="https://get6.github.io"><img src="https://img.shields.io/badge/Blog-get6.github.io-87CEFA?style=flat&logo=githubpages&logoColor=white"/></a>
+  <a href="./assets/pdfs/portfolio.pdf"><img src="https://img.shields.io/badge/Portfolio-PDF-FF5733?style=flat&logo=adobeacrobatreader&logoColor=white"/></a>
 </p>
 
-<h3 align="center">🌈 Most Used Languages</h3>
+<h3 align="center">📈 Activity</h3>
 <p align="center">
-  <a href="https://github.com/get6">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=get6&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=" />
-  </a>
+  <a href="https://github.com/get6"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=get6&theme=github-compact&hide_border=true&hide_title=true" /></a>
 </p>
 
-<h3 align="center">🍒 Git Stats</h3>
+<h3 align="center">🔥 Streak</h3>
 <p align="center">
-  <a href="https://github.com/get6">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=get6&hide=&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
-  </a>
+  <a href="https://github.com/get6"><img align="center" src="https://streak-stats.demolab.com/?user=get6&theme=nord&hide_border=true" /></a>
 </p>
 
 <h3 align="center">🎉 Portfolio</h3>
