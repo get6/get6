@@ -10,33 +10,19 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=87CEFA&width=435&lines=What+we+think%2C+we+become.;Stay+hungry%2C+Stay+foolish.;I'm+gonna+live+every+minute+of+it." alt="Typing SVG" />
 </p>
 
-<h1 align="center">🥞 Tech stack</h1>
-
-<p align="center"><b>Mobile</b></p>
+<h3 align="center">🥞 Tech stack</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
-</p>
-
-<p align="center"><b>Backend</b></p>
-<p align="center">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>
-</p>
-
-<p align="center"><b>Frontend</b></p>
-<p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-</p>
-
-<p align="center"><b>AI</b></p>
-<p align="center">
 <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
 </p>
 
-<h1 align="center">🏎 Tools</h1>
+<h3 align="center">🏎 Tools</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
@@ -44,7 +30,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
 
-<h1 align="center">🔗 Connect</h1>
+<h3 align="center">🔗 Connect</h3>
 <p align="center">
   <a href="https://get6.github.io">
     <img src="https://img.shields.io/badge/Blog-get6.github.io-87CEFA?style=flat&logo=githubpages&logoColor=white"/>
@@ -54,21 +40,21 @@
   </a>
 </p>
 
-<h1 align="center">🌈 Most Used Languages</h1>
+<h3 align="center">🌈 Most Used Languages</h3>
 <p align="center">
   <a href="https://github.com/get6">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=get6&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=" />
   </a>
 </p>
 
-<h1 align="center">🍒 Git Stats</h1>
+<h3 align="center">🍒 Git Stats</h3>
 <p align="center">
   <a href="https://github.com/get6">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=get6&hide=&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
 </p>
 
-<h1 align="center">🎉 Portfolio</h1>
+<h3 align="center">🎉 Portfolio</h3>
 <p align="center">
   📝
   <a href="https://get6.github.io">
