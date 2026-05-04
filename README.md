@@ -43,7 +43,7 @@
 
 <h3 align="center">🔥 Streak</h3>
 <p align="center">
-  <a href="https://github.com/get6"><img align="center" src="https://streak-stats.demolab.com/?user=get6&theme=nord&hide_border=true" /></a>
+  <a href="https://github.com/get6"><img align="center" src="https://streak-stats.demolab.com/?user=get6&theme=transparent&hide_border=true" /></a>
 </p>
 
 <h3 align="center">🎉 Portfolio</h3>
